@@ -120,3 +120,12 @@
 - 骗子给你手机号发送钓鱼链接，谎称平台需要更新，让你们上传小利平台账号密码的。
 - 平台从来不会以任何方式索要大家的账号密码，遇到这种的直接拉黑删除，一律默认骗子！！！
 - 没收到钱,说啥也不放币！！！
+
+## 梯子VPN，苹果ID及各大官网
+
+- [苹果共享ID，用完即退](#)
+- [翻墙机场推荐](https://sakuracat-1.com/user/#/register?code=cu1chOnn)
+- [电报Telegram](https://t.me/La_Jason123)
+- [欧意官网](https://www.okx.com/zh)
+- [火币官网](https://www.htx.com.ee/zh-cn)
+- [币安官网](https://www.binance.com/zh-CN)

@@ -32,12 +32,12 @@
 ## 提单教程
 
 - 首次提交余额查询失败的号码，请隔天再次尝试。如果仍然失败，请主动取消订单。
-- 充值金额可在“实冲金额”处手动填写。
+- 充值金额可在“实冲金额”处手动填写。[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/tidna.mp4)
 
 ## APP内购买U币（新手推荐）
 
 - 方便快捷，即买即用，无手续费
-- 付款前请先通过在线联系确认卖家是否在线，除付款外，其他所有聊天内容请不要离开小利平台
+- 付款前请先通过在线联系确认卖家是否在线，除付款外，其他所有聊天内容请不要离开小利平台[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/maiu.mp4)
 
 ## 注意事项（代理和客户须知）
 
@@ -50,7 +50,7 @@
 ## 钱包地址
 
 - 打开交易所，选择充币-TRC20，复制地址。
-- 其他交易所流程相同
+- 其他交易所流程相同[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/qianbao.mp4)
 
 ## 交易所买币/提币
 
@@ -115,7 +115,6 @@
   - 5000为iPhone15（A3092）黑色 128G 支持移动联通电信 5G 双卡双待手机
   - 1500为AirPods pro （第二代）搭配magsafe充电盒（usbc）
 - 京东小时达尽量选择白天提单
-- 拼多多拉码教程：
 - 拼多多拉码教程：[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/lama.mp4)
 
 ## 谨防假冒客服

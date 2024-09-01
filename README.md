@@ -116,7 +116,7 @@
   - 1500为AirPods pro （第二代）搭配magsafe充电盒（usbc）
 - 京东小时达尽量选择白天提单
 - 拼多多拉码教程：
-- ![拼多多拉码](https://github.com/La-Jason/xlth-daili/blob/main/vedio/lama.mp4)
+- 拼多多拉码教程：[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/lama.mp4)
 
 ## 谨防假冒客服
 

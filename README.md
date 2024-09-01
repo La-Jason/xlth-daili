@@ -78,7 +78,7 @@
 - 假如你招到50个代理，每个代理每天提5单500的，那么你每天的分佣为5块×5单×50人＝1250块，代理越多，分佣越多
 
 - 示例：在我的-代理中心页面查看每日返佣，单位为U
-- ![代理中心页面](https://github.com/La-Jason/xlth-daili/blob/main/vedio/fanu.jpg)
+![代理中心页面](https://github.com/La-Jason/xlth-daili/blob/main/vedio/fanu.jpg)
 
 ## 闲鱼爆单教程
 
@@ -115,7 +115,7 @@
   - 5000为iPhone15（A3092）黑色 128G 支持移动联通电信 5G 双卡双待手机
   - 1500为AirPods pro （第二代）搭配magsafe充电盒（usbc）
 - 京东小时达尽量选择白天提单
-  拼多多拉码教程：[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/lama.mp4)
+- 拼多多拉码教程：[点击这里查看视频](https://github.com/La-Jason/xlth-daili/blob/main/vedio/lama.mp4)
 
 ## 谨防假冒客服
 

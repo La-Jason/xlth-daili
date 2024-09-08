@@ -129,7 +129,7 @@
 
 - [苹果共享ID，用完即退](https://apple.fxtos.com/)
 - [翻墙机场推荐](https://sakuracat-1.com/user/#/register?code=cu1chOnn)
-- [电报Telegram](https://t.me/La_Jason123)
+- [电报Telegram（拉入公开代理群）](https://t.me/La_Jason123)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)

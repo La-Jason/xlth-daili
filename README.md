@@ -2,7 +2,7 @@
 # 小利特惠平台说明文档
 
 ## 更新通知栏
-
+- **2024/10/10通知**：热力充值上线，冬天必备，速度快。7折必胜客上线，700充1000，速度快。
 - **2024/08/18通知**：即日起，开小号的用户将不再提供任何售后服务。如果有小号，请主动联系上级进行封禁。
 - **2024/08/16通知**：话费8折板块提供500面额的高速充值，电信300高速充值，以及小额100面额商品上架。
 - **2024/08/03通知**：湖北大额电费暂停，所有地区电费只能提交500或1000面额。
@@ -128,8 +128,8 @@
 ## 梯子VPN，苹果ID及各大官网
 
 - [苹果共享ID，用完即退](https://apple.fxtos.com/)
-- [翻墙机场推荐](https://sakuracat-1.com/user/#/register?code=cu1chOnn)
-- [电报Telegram（拉入公开代理群）](https://t.me/La_Jason123)
+- [翻墙机场推荐](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
+- [电报Telegram（联系我拉入公开代理群，不禁言交流群）](https://t.me/La_Jason123)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)

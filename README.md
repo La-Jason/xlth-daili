@@ -17,6 +17,7 @@
 - 苹果用户请使用网页版，邀请码：`ZGV3P9W2`：[苹果网页地址](http://xl.baililai.xyz/h5#/)。
 - 注册后请点击“我的-账户设置”，将平台昵称更改为与电报或微信昵称一致，以便售后服务。
 - 平台禁止多开账号，违者封禁大小号，余额不退。
+- 推广视频：[跳转TouTube](https://www.youtube.com/watch?v=De1Y42NByjw&lc=Ugwh7imxqRijGPDfbtB4AaABAg)
 
 ## 如何盈利
 

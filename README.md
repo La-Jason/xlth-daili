@@ -131,10 +131,7 @@
 
 - [苹果共享ID，用完即退](https://apple.fxtos.com/)
 - [机场推荐（你能看到这篇文章默认你已经会翻墙了吧）](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
-- [电报Telegram（请注册后再联系我拉入公开不禁言代理群，附上“我的”页面的截图，节省双方时间，谢谢！）](https://t.me/La_Jason123)
-- [截图示例如下](https://github.com/La-Jason/xlth-daili/blob/main/vedio/wode.jpg)
+- [联系我——电报Telegram（请注册后再联系我拉入公开不禁言代理群，附上“我的”页面的截图，节省双方时间，谢谢！）](https://t.me/La_Jason123)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)
-
-![访问量统计](https://github-readme-stats.vercel.app/api?username=La-Jason&repo=xlth-daili)

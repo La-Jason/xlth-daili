@@ -130,8 +130,9 @@
 ## 梯子VPN，苹果ID及各大官网
 
 - [苹果共享ID，用完即退](https://apple.fxtos.com/)
-- [翻墙机场推荐](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
-- [电报Telegram（请注册后再联系我拉入公开代理群，不禁言交流群）](https://t.me/La_Jason123)
+- [机场推荐（你能看到这篇文章默认你已经会翻墙了吧）](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
+- [电报Telegram（请注册后再联系我拉入公开不禁言代理群，附上“我的”页面的截图，节省双方时间，谢谢！）](https://t.me/La_Jason123)
+- [截图示例如下](https://github.com/La-Jason/xlth-daili/blob/main/vedio/wode.jpg)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)

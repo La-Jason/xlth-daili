@@ -10,7 +10,7 @@
 - **2024/08/01通知**：谨防假冒客服，平台不会通过任何方式索要代理账号密码。
 - **2024/07/30更新**：京东小时达上线，提单前阅读规则
 
-## 如何成为代理
+## 如何成为代理（请注册后再联系我拉入代理交流群，联系方式在文章末尾）
 
 - 注册后即为代理，无需预存，一单一结。
 - 安卓用户注册后可使用APP：[安卓APP下载地址](https://xl.baililai.xyz/Invitation/register#/?invite_code=ZGV3P9W2&name=La%20Jason)。
@@ -131,7 +131,7 @@
 
 - [苹果共享ID，用完即退](https://apple.fxtos.com/)
 - [翻墙机场推荐](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
-- [电报Telegram（联系我拉入公开代理群，不禁言交流群）](https://t.me/La_Jason123)
+- [电报Telegram（请注册后再联系我拉入公开代理群，不禁言交流群）](https://t.me/La_Jason123)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)

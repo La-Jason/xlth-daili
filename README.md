@@ -10,14 +10,14 @@
 - **2024/08/01通知**：谨防假冒客服，平台不会通过任何方式索要代理账号密码。
 - **2024/07/30更新**：京东小时达上线，提单前阅读规则
 
-## 如何成为代理（请注册后再联系我拉入代理交流群，联系方式在文章末尾）
+## 如何成为代理（请注册后再联系我拉入代理交流群，联系方式在末尾）
 
 - 注册后即为代理，无需预存，一单一结。
 - 安卓用户注册后可使用APP：[安卓APP下载地址](https://xl.baililai.xyz/Invitation/register#/?invite_code=ZGV3P9W2&name=La%20Jason)。
 - 苹果用户请使用网页版，邀请码：`ZGV3P9W2`：[苹果网页地址](http://xl.baililai.xyz/h5#/)。
 - 注册后请点击“我的-账户设置”，将平台昵称更改为与电报或微信昵称一致，以便售后服务。
 - 平台禁止多开账号，违者封禁大小号，余额不退。
-- 推广视频：[跳转YouTube](https://www.youtube.com/watch?v=De1Y42NByjw)
+- 推广视频：[跳转YouTube播放](https://www.youtube.com/watch?v=De1Y42NByjw)
 
 ## 如何盈利
 
@@ -129,9 +129,9 @@
 
 ## 梯子VPN，苹果ID及各大官网
 
-- [苹果共享ID，用完即退](https://apple.fxtos.com/)
-- [机场推荐（你能看到这篇文章默认你已经会翻墙了吧）](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
-- [联系我——电报Telegram（请注册后再联系我拉入公开不禁言代理群，附上“我的”页面的截图，节省双方时间，谢谢！）](https://t.me/La_Jason123)
+- [联系我——电报Telegram（请注册后再联系我拉群，附上“我的”页面截图，节省双方时间，谢谢）](https://t.me/La_Jason123)
+- [苹果共享小火箭ID，请用完即退](https://apple.fxtos.com/)
+- [机场推荐（看到这篇文章相信你已经会翻墙了）](https://sakura-cat1.com/user/#/register?code=cu1chOnn)
 - [欧意官网](https://www.okx.com/zh)
 - [火币官网](https://www.htx.com.ee/zh-cn)
 - [币安官网](https://www.binance.com/zh-CN)

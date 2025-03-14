@@ -17,8 +17,7 @@
 ## 如何成为代理（请注册后再联系我拉入代理交流群，[点击联系](https://t.me/La_Jason123)）
 
 - 注册后即为代理，无需预存，一单一结。
-- 安卓用户注册后可使用APP：[安卓APP下载地址](https://xl.baililai.xyz/Invitation/register#/?invite_code=ZGV3P9W2&name=La%20Jason)。
-- 苹果用户请使用网页版，邀请码：`ZGV3P9W2`：[苹果网页地址](http://xl.baililai.xyz/h5#/)。
+- 请使用网页版，邀请码：`7nbJWbom`：[网页地址](https://www.xiaouzk.org/register?code=7nbJWbom)。
 - 注册后请点击“我的-账户设置”，将平台昵称更改为与电报或微信昵称一致，以便售后服务。
 - 平台禁止多开账号，违者封禁大小号，余额不退。
 - 推广视频：[跳转YouTube播放](https://www.youtube.com/watch?v=De1Y42NByjw)
